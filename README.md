@@ -1,5 +1,7 @@
 # TP-LINK 官方固件 ART 提取工具
 
+需要确定好 ART 位于固件的位置。
+
 ![TP-LINK ART TOOL](https://fastly.jsdelivr.net/gh/lalakii/lalakii.github.io@master/demo.jpg)
 
 ## 下载地址
